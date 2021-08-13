@@ -1,7 +1,7 @@
 # backdoor_python
 
 Python backdoor adalah sebuah source code yang dapat mengexploitasi perangkat orang lain tanpa sepengatahuan si korban.
-Dengan cara memanipulasi script python atau menyisipkan script python ke dalam script python.
+Dengan cara memanipulasi script python atau menyisipkan script python backdoor ke dalam script python.
 
 Contoh :
 
