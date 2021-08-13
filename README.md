@@ -29,3 +29,15 @@ $ cd (path) (example : cd Download)
 $ cp (path) /sdcard (example : cp Download /sdcard) gunanya untuk menyimpan file
 ![IMG_20210813_145408](https://user-images.githubusercontent.com/77473259/129329276-5e1aeacc-8fe3-4115-8525-f01603e62b72.jpg)
 
+# warning
+
+hanya untuk edukasi saja, jangan disalah gunakan!
+
+# SOSIAL MEDIA SAYA
+
+* [<img alt="ProfAcc Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /><b>Github</b>](https://github.com/KangProf/)<br>
+* [<img alt="ProfAcc Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /><b>Facebook</b>](https://www.facebook.com/MauApaNJING)<br>
+* [<img alt="ProfAcc Whatsapp" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /><b>WhatsApp</b>](https://wa.me/6281326977165?text=Asalamualaikum+Mas)<br> 
+* [<img alt="ProfAcc Tentang Saya" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" /><b>Tentang Saya</b>](https://tutorkhusus.000webhostapp.com)<br>
+
+
